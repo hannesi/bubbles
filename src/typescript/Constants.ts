@@ -1,0 +1,14 @@
+export const BALL_MIN_SPAWN_VOLUME = 1000;
+export const BALL_MAX_SPAWN_VOLUME = 50000;
+export const BALL_MAX_ABSORBS = 10;
+export const BALL_ABSORB_RESISTANCE_HANDICAP_MULTIPLIER = 1;
+export const BALL_MAX_VOLUME = 200000;
+export const BALL_EXPLOSION_ON_ABSORB = false;
+export const BALL_EXPLOSION_ON_VOLUME = true;
+export const BALLS_FROM_EXPLOSION_MIN = 8;
+export const BALLS_FROM_EXPLOSION_MAX = 12;
+export const BALL_COUNT = 100;
+export const BALL_SPEED = 0.1;
+export const FPS = 60;
+export const CANVAS_WIDTH = 1900;
+export const CANVAS_HEIGHT = 970;
